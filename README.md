@@ -402,3 +402,9 @@ note: use requirements.txt when
 - use `conda` to create an environment.yml file
 - export the environment.yml file: `conda env export > environment.yml`
 - `conda env create -f environment.yml` to create a conda environment from an environment.yml file
+
+## Summary
+- `setup.py` is a script that is used to package your project, develop and distribute it (package python)
+- `enviroment.yml`, when you use conda to manage your project
+- `requirements.txt`, if your project is simple
+
