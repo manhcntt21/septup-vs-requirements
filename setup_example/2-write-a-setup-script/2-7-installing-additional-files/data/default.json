@@ -1,0 +1,14 @@
+{
+    "app_name": "MyPackage",
+    "version": "1.0",
+    "settings": {
+        "max_connections": 100,
+        "timeout": 30,
+        "retry_attempts": 3
+    },
+    "features": {
+        "cache_enabled": true,
+        "notifications": false,
+        "auto_update": true
+    }
+}

@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+data/config.init
+data/default.json
+docs/examples.txt
+mypackage.egg-info/PKG-INFO
+mypackage.egg-info/SOURCES.txt
+mypackage.egg-info/dependency_links.txt
+mypackage.egg-info/top_level.txt
+mypkg/__init__.py
+mypkg/app.py

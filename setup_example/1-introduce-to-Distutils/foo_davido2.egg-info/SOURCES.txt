@@ -1,0 +1,7 @@
+README.md
+foo.py
+setup.py
+foo_davido2.egg-info/PKG-INFO
+foo_davido2.egg-info/SOURCES.txt
+foo_davido2.egg-info/dependency_links.txt
+foo_davido2.egg-info/top_level.txt

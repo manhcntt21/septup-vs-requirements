@@ -1,0 +1,8 @@
+setup.py
+src/mypkg/__init__.py
+src/mypkg/module.py
+src/mypkg/data/test.dat
+src/pgk_data.egg-info/PKG-INFO
+src/pgk_data.egg-info/SOURCES.txt
+src/pgk_data.egg-info/dependency_links.txt
+src/pgk_data.egg-info/top_level.txt

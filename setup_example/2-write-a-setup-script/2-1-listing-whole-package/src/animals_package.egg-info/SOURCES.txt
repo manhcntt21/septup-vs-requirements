@@ -1,0 +1,9 @@
+setup.py
+src/animals/__init__.py
+src/animals/cat.py
+src/animals/dog/__init__.py
+src/animals/dog/breed.py
+src/animals_package.egg-info/PKG-INFO
+src/animals_package.egg-info/SOURCES.txt
+src/animals_package.egg-info/dependency_links.txt
+src/animals_package.egg-info/top_level.txt
